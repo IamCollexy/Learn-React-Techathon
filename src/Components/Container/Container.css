@@ -1,0 +1,11 @@
+.BoxContainer {
+    width: 300px;
+    min-height:300px;
+    border: 2px solid red;
+}
+#container{
+    background-color: burlywood;
+}
+.container1{
+    display: flex;
+}
